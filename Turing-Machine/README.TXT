@@ -2,7 +2,8 @@ Type in rules to the RuleFile.txt file in the following format.
 The first line is the set of states,
 where the first, second, and third states are the start, accept, 
 and reject states respectively.
-Next write Q,A:R,B,L for "when reading A in state Q go to state R, write a B and move Left".
+For the next lines, write Q,A:R,B,L for "when reading A in state Q go to state R, write a B and move Left".
+Each such rule write on a different line. One rule - one line.
 If machine won't know what to do next it will reject.
 Assume the tape has a start symbol S. The input will be written 
 directly after S.
