@@ -1,0 +1,347 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"R",
+				"REWRITE_LINE"
+			],
+			[
+				"transpo",
+				"transposeCommand"
+			],
+			[
+				"newFunc",
+				"newFuncRem"
+			],
+			[
+				"thre",
+				"threshold"
+			],
+			[
+				"Prio",
+				"PriorityQueue"
+			],
+			[
+				"thres",
+				"threshCmd"
+			],
+			[
+				"balnce",
+				"balanceGetsNegative"
+			],
+			[
+				"number",
+				"numberOfDeposits"
+			],
+			[
+				"AndThen",
+				"AndThenCommand"
+			],
+			[
+				"semi",
+				"semiminor"
+			],
+			[
+				"the",
+				"theSet"
+			],
+			[
+				"Int",
+				"IntQueue"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/filip/Documents/GitHub/Projects/Augumented-Lagrangian/mult-dim_aug_lagrange_eq.py",
+			"settings":
+			{
+				"buffer_size": 2408,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Practical/Editor.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Practical/EdBuffer.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Practical/Text.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Practical/UndoableEditor.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Practical/Terminal.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Practical/Display.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_3/Q1/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_3/Q2, Q3/MySet.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_3/Q7/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_3/Q8/NEWAutosnail/AutoSnailsrc/src/MapViewer.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_3/Q8/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_3/Q8/NEWAutosnail/AutoSnailsrc/src/AppFrame.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_3/Q8/AutoSnailsrc/src/AutoSnail.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_3/Q8/AutoSnailsrc/src/AppFrame.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_3/Q6/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_3/Q6/AutoSnailsrc/src/RootPackage.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_3/Q5/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_3/Q4/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_3/Q4/Test.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_3/Q4/ContraBag.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_3/Q4/Bag.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_3/Q2, Q3/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_3/Q2/MySet.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_3/Q1/Dictionary.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_3/Q1/knuth_words.txt",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_3/Q1/WordPaths.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_2/Q8/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_2/Q8/Q_Text.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_2/Q7/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_2/Q7/Q_Sqrt.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_2/Q6/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_2/Ewoks/Ewokssrc/src/EdBuffer.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_2/Ewoks/Ewokssrc/src/UndoableEditor.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_2/Q5/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_2/Q5/Test.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_2/Q5/WhileCommand.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_2/Q4/BasicAccount.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_2/Q4/Test.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_2/Q4/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_2/Q4/AndThenCommand.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_2/Q3/Q3.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_2/Q2/Command.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_2/Q2/Account.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_2/Q2/Test.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_2/Q2/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_2/Q1/Test.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_2/Q1/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_2/Q1/FilterIterator.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_1/Q7/StricterRectangle.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_1/Q7/Test.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_1/Q7/BetterRectangle.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_1/Q7/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_1/Q7/Rectangle.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_1/Q6/Rectangle.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_1/Q6/SomeText.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_1/Q6/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_1/Q5/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_1/Q5/Overriden.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_1/Q5/NotOverriden.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_1/Q4/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_1/Q4/Q4.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_1/Q3/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_1/Q1/Q1.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_1/Q1/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_1/Q2/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Part_3/Sheet_1/Q1/altQ1.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/DAA_Practical/Brack.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/DAA_Practical/testcase",
+		"/home/filip/Documents/GitHub/Imperative_Programming/DAA_Practical/string1",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_6/Q3/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_6/Q3/ProbingBag.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_6/Q6/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_6/Q6/BinaryTreeBag.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_6/Q4/BinaryTreeBag.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_6/Q4/TreePrints.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_6/Q5/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_6/Q5/TreeFlip.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_6/Q4/Tree.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_6/Q4/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_6/Q1/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_6/Q4/TestPrint.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Practical_2/TestTest.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Practical_2/IntSet.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_5/Q3/LinkedBook.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_5/Q5/Q5.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_5/Q6/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_5/Q6/Q6.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_5/Q6",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_5/Q5/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_5/Q4/Q4.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_5/Q4/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_5/Q3/README.md",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_5/Q3/Book.scala",
+		"/home/filip/Documents/GitHub/Imperative_Programming/Sheet_5/Q3/Q3.scala"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"()\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/filip/Documents/GitHub/Projects/Augumented-Lagrangian/mult-dim_aug_lagrange_eq.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2229,
+								2229
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 450.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "test.cpython-39.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
